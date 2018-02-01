@@ -97,11 +97,10 @@ I used a combination of color and gradient thresholds to generate a binary image
 * combined_thresh combine the above threshold
 
 Here's an example of my output for this step.
-
-![alt text][image01]
-![alt text][image02]
-![alt text][image03]
-![alt text][image04]
+<img src="./output_images/Sobel_Threshold.png">
+<img src="./output_images/Sobel_Threshold_1.png">
+<img src="./output_images/Sobel_Threshold_2.png">
+<img src="./output_images/Sobel_Threshold_3.png">
 
 #### 3. Describe how (and identify where in your code) you performed a perspective transform and provide an example of a transformed image.
 
@@ -164,5 +163,3 @@ Here's a [link to my video result](./output_images/out.mp4)
 #### 1. Briefly discuss any problems / issues you faced in your implementation of this project.  Where will your pipeline likely fail?  What could you do to make it more robust?
 
 Here I'll talk about the approach I took, what techniques I used, what worked and why, where the pipeline might fail and how I might improve it if I were going to pursue this project further.  
-
-
