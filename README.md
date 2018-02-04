@@ -162,4 +162,7 @@ Here's a [link to my video result](./output_images/out.mp4)
 
 #### 1. Briefly discuss any problems / issues you faced in your implementation of this project.  Where will your pipeline likely fail?  What could you do to make it more robust?
 
-Here I'll talk about the approach I took, what techniques I used, what worked and why, where the pipeline might fail and how I might improve it if I were going to pursue this project further.  
+Some improvements could be done in future:
+
+* The code is not working well in the challenge video, I should investigate the root cause.
+* When I was in driving schoolo, the instructor told me one should see further rather than close eyesight. So I try to implement a lager region, however, after perspective transform the curve fitting result is not good. So I wonder is there a defined  precise perspective transform(formula in drawing technique).
